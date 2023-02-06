@@ -49,7 +49,6 @@ st.write("### OPEN API: **OPEN DART**")
 
 def get_fs(code, year, cat):
     import requests
-    import json
     import pandas as pd
 
     # https://opendart.fss.or.kr/
