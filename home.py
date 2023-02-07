@@ -254,7 +254,6 @@ st.write(
 )
 if st.button("빠르게 배우는 방법"):
     st.exception(RuntimeError("그런 방법은 있을 수가 없어요(단호)"))
-    st.info("🧠머리가 엄청 좋으면...")
 
 
 st.write(
