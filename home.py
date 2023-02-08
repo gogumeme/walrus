@@ -248,8 +248,10 @@ st.write(
 #
 - 혼자 공부하면 막히는 부분이 많아요
 - 에러가 나거나 원하는 결과가 안나올때
-  - 구글 검색👍 / 같이 고민해봐요🤔
+    - 구글 검색👍 / 같이 고민해봐요🤔
 - 배우는 언어의 [코딩 컨벤션](https://yoonpunk.tistory.com/1)을 따르자.
+    - [naming conventions](https://realpython.com/python-pep8/#naming-conventions)이 가장 중요
+    - 나머지는 IDE(vscode)에서 알아서 교정해줌
 """
 )
 if st.button("빠르게 배우는 방법"):
