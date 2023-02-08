@@ -267,6 +267,42 @@ st.write(
 #
 #
 #
+### 🐍Python 개발환경 구축
+"""
+)
+with st.expander("Python 설치"):
+    st.write(
+        """
+    - [Python.org](https://www.python.org/)
+    - Downloads
+    - 최신버전이라고 다 좋지는 않음
+        - 라이브러리에 따라 최신버전을 지원하지 않는 경우도 있음
+        - 하지만 우리는 무시하고 3.11.2 버전으로!
+    - **중요**
+        - 설치 파일 실행 후 하단에 `Add python.exe to Path`를 반드시 ✅
+    """
+    )
+
+with st.expander("Visual Studio Code 설치"):
+    st.write(
+        """
+    - [Visual Studio Code](https://code.visualstudio.com/download)
+    - vscode: 프로그래밍계의 ms word/한글
+    - 본인의 운영체제에 맞는 버전으로 설치
+    """
+    )
+
+st.write(
+    """
+#
+#
+#
+#
+#
+#
+#
+#
+#
 ### 🦭Walrus := coding club
 """
 )
