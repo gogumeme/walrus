@@ -4,7 +4,7 @@ import configparser
 
 st.set_page_config(
     page_title="Walrus Coding Club",
-    page_icon="🦭",
+    page_icon=":seal:",
 )
 st.write("#")
 st.write("# 🖐️Hello, Walrus!")
