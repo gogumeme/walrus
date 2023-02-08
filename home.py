@@ -214,7 +214,7 @@ with st.expander("💸유료"):
         - Python 강의도 있지만 주로 javascript 위주
     """
     )
-with st.expander("▶️유튜브"):
+with st.expander("🎞유튜브"):
     st.write(
         """
     - [노마드코더](https://www.youtube.com/@nomadcoders)
@@ -270,7 +270,7 @@ st.write(
 ### 🦭Walrus := coding club
 """
 )
-with st.expander("🥸목적"):
+with st.expander("😎목적"):
     st.write(
         """
     - [컴퓨팅 사고](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%8C%85_%EC%82%AC%EA%B3%A0)
@@ -293,7 +293,7 @@ with st.expander("🧭나아갈 방향"):
     """
     )
 
-with st.expander("🛞운영 방식"):
+with st.expander("🎠운영 방식"):
     st.write(
         """
     - 월 1~2회 점심 시간에 모여요!
