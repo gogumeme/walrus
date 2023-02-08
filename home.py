@@ -4,7 +4,7 @@ import configparser
 
 st.set_page_config(
     page_title="Walrus Coding Club",
-    page_icon="🦭",
+    page_icon=":seal:",
 )
 st.write("#")
 st.write("# 🖐️Hello, Walrus!")
@@ -214,7 +214,7 @@ with st.expander("💸유료"):
         - Python 강의도 있지만 주로 javascript 위주
     """
     )
-with st.expander("▶️유튜브"):
+with st.expander("🎞유튜브"):
     st.write(
         """
     - [노마드코더](https://www.youtube.com/@nomadcoders)
@@ -306,22 +306,13 @@ st.write(
 ### 🦭Walrus := coding club
 """
 )
-with st.expander("🥸목적"):
+with st.expander("😎목적"):
     st.write(
         """
     - [컴퓨팅 사고](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%8C%85_%EC%82%AC%EA%B3%A0)
     - 문제분해, 패턴인식, 자료표현, 일반화/추상화, 알고리즘
-    - wvscrapper
-        - 공사와 관련된 기사를 pdf로 다운받고 목록을 관리하고 싶다.
-        - 스크랩 사이트 접근
-        - 로그인
-        - 날짜별 뉴스스크랩 url 접근
-        - 공사 관련 뉴스 영역 접근
-        - ...
-        - pdf 다운로드
-        - 뉴스 목록 저장
     - 창의적 문제해결
-    - 공사의 업무 혁신에 이바지하는 것은 덤
+    - 공사의 업무 혁신에 이바지는 덤
     """
     )
 with st.expander("🧭나아갈 방향"):
@@ -338,7 +329,7 @@ with st.expander("🧭나아갈 방향"):
     """
     )
 
-with st.expander("🛞운영 방식"):
+with st.expander("🎠운영 방식"):
     st.write(
         """
     - 월 1~2회 점심 시간에 모여요!
