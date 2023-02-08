@@ -311,8 +311,8 @@ st.write(
 with st.expander("😎목적"):
     st.write(
         """
-    - [컴퓨팅 사고](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%8C%85_%EC%82%AC%EA%B3%A0)
-    - 문제분해, 패턴인식, 자료표현, 일반화/추상화, 알고리즘
+    - [컴퓨팅 사고](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=aporia25&logNo=221171778914)
+        - 문제분해, 추상화, 패턴인식, 알고리즘, 자동화
     - 창의적 문제해결
     - 공사의 업무 혁신에 이바지는 덤
     """
@@ -326,8 +326,7 @@ with st.expander("🧭나아갈 방향"):
         - 기초 문법을 활용해서 작은 문제들을 해결해요.
     - **Phase 3**: 토이 프로젝트
         - 시스템구축을 하기엔 작거나 같고 개인이 해결하기에는 많은 시간이 소요되는 업무를 해결해요.
-    - 부담노노!
-    - 프로그래밍은 문제해결 과정의 연속, 문제해결을 즐겨보아요!
+    - 부담노노! 문제해결을 즐겨보아요!
     """
     )
 
