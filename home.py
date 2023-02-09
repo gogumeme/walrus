@@ -282,6 +282,7 @@ with st.expander("Python 설치"):
         - 하지만 우리는 무시하고 3.11.2 버전으로!
     - **중요**
         - 설치 파일 실행 후 하단에 `Add python.exe to Path`를 반드시 ✅
+    - [Python & vscode 설치 방법 참고](https://kgokapc.tistory.com/199)
     """
     )
 
